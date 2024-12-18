@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641409173411",
+    "project_id": "gps-360x",
+    "storage_bucket": "gps-360x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641409173411:android:05485d7ce8ce6a03873c16",
+        "android_client_info": {
+          "package_name": "com.safelinktheft.gps360x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9d5I4bynjYaPBMl_P_1ZBmb4OI1SVMKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
